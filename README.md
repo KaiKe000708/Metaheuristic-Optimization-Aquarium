@@ -40,7 +40,7 @@ L = W = (2V)^(1/3)        H = V / (L * W)
 
 ### 💡 Principal conclusão
 
-Os dois Algoritmos Genéticos **convergem exatamente para o ótimo teórico** (0% de erro), pois recalculam a otimização do zero a cada execução. Já a Rede Neural troca essa precisão exata por **velocidade de resposta**: uma vez treinada, ela prevê a solução instantaneamente para qualquer volume, sem rodar nenhuma busca — um trade-off clássico entre exatidão e velocidade em Inteligência Artificial.
+Os dois Algoritmos Genéticos **convergem exatamente para o ótimo teórico** (0% de erro), pois recalculam a otimização do zero a cada execução. Já a Rede Neural troca essa precisão exata por **velocidade de resposta**: uma vez treinada, ela prevê a solução instantaneamente para qualquer volume, sem rodar nenhuma busca | um trade-off clássico entre exatidão e velocidade em Inteligência Artificial.
 
 ---
 
@@ -86,13 +86,13 @@ O mesmo vale para `02_ag_samp/aquario_ag_samp.py` e `03_rede_neural/aquario_rede
 ## 🖥️ Requisitos
 
 - Python 3.9 ou superior
-- `numpy` (apenas para o script 03 — os dois algoritmos genéticos usam só a biblioteca padrão do Python)
+- `numpy` (apenas para o script 03 | os dois algoritmos genéticos usam só a biblioteca padrão do Python)
 
 ---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT | veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
